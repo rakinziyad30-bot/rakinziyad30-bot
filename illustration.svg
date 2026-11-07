@@ -1,0 +1,146 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 460 480" width="100%" height="100%" role="img" aria-label="Editorial Study: Minimalist Desk, Code Terminal, and Botanical Specimen">
+  <defs>
+    <style>
+      .paper-bg { fill: #F4F1E8; }
+      .secondary-card { fill: #DED8C8; }
+      .olive-accent { fill: #606C38; }
+      .dark-olive { fill: #283618; }
+      .sage-fill { fill: #A3B18A; }
+      .serif-note {
+        font-family: 'Cormorant Garamond', 'Georgia', serif;
+        fill: #283618;
+      }
+      .mono-code {
+        font-family: 'JetBrains Mono', 'SFMono-Regular', Consolas, monospace;
+        font-size: 10.5px;
+      }
+      .float-card {
+        animation: subtleFloat 6s ease-in-out infinite alternate;
+      }
+      .steam-rise {
+        animation: steamDrift 4.5s ease-in-out infinite alternate;
+      }
+      @keyframes subtleFloat {
+        0% { transform: translateY(0px); }
+        100% { transform: translateY(-4px); }
+      }
+      @keyframes steamDrift {
+        0% { opacity: 0.35; transform: translateY(2px); }
+        100% { opacity: 0.75; transform: translateY(-3px); }
+      }
+    </style>
+  </defs>
+
+  <!-- 1. Primary Warm Cream Card Canvas (60% #F4F1E8) -->
+  <rect x="0" y="0" width="460" height="480" rx="12" class="paper-bg" />
+
+  <!-- Outer Editorial Border -->
+  <rect x="14" y="14" width="432" height="452" rx="8" fill="none" stroke="#DED8C8" stroke-width="1.5" />
+  <rect x="20" y="20" width="420" height="440" rx="5" fill="none" stroke="#606C38" stroke-width="0.8" stroke-opacity="0.5" />
+
+  <!-- Top Editorial Header -->
+  <text x="40" y="48" class="mono-code" fill="#606C38" letter-spacing="2">STUDY N° 01 // WORKSPACE</text>
+  <text x="420" y="48" class="mono-code" fill="#A3B18A" text-anchor="end">60:30:10</text>
+  <line x1="40" y1="58" x2="420" y2="58" stroke="#DED8C8" stroke-width="1" />
+
+  <!-- 2. Secondary Soft Beige Backdrop Panel (30% #DED8C8) -->
+  <rect x="40" y="76" width="380" height="270" rx="8" class="secondary-card" />
+
+  <!-- Subtle Japanese Circle Window Inside Backdrop -->
+  <circle cx="315" cy="175" r="68" fill="#F4F1E8" stroke="#606C38" stroke-width="1" stroke-opacity="0.4" />
+  <circle cx="315" cy="175" r="46" fill="#A3B18A" fill-opacity="0.35" />
+
+  <!-- 3. Floating Code Editor Window (Modern Developer Aesthetic) -->
+  <g class="float-card">
+    <rect x="60" y="98" width="248" height="178" rx="6" fill="#F4F1E8" stroke="#283618" stroke-width="1.3" />
+    <!-- Editor Title Bar -->
+    <path d="M 60 104 Q 60 98 66 98 L 302 98 Q 308 98 308 104 L 308 122 L 60 122 Z" fill="#283618" />
+    <circle cx="74" cy="110" r="3.5" fill="#F4F1E8" opacity="0.8" />
+    <circle cx="86" cy="110" r="3.5" fill="#A3B18A" opacity="0.9" />
+    <circle cx="98" cy="110" r="3.5" fill="#606C38" />
+    <text x="184" y="113" class="mono-code" fill="#F4F1E8" font-size="9" text-anchor="middle" opacity="0.85">Philosophy.java</text>
+
+    <!-- Code Content Inside Editor -->
+    <g transform="translate(76, 144)" class="mono-code">
+      <text x="0" y="0" fill="#A3B18A">01</text>
+      <text x="24" y="0" fill="#606C38" font-weight="bold">class</text>
+      <text x="64" y="0" fill="#283618">Developer {</text>
+
+      <text x="0" y="20" fill="#A3B18A">02</text>
+      <text x="34" y="20" fill="#606C38">String</text>
+      <text x="80" y="20" fill="#283618">focus =</text>
+      <text x="132" y="20" fill="#606C38">"Frontend"</text>
+      <text x="196" y="20" fill="#283618">;</text>
+
+      <text x="0" y="40" fill="#A3B18A">03</text>
+      <text x="34" y="40" fill="#606C38">void</text>
+      <text x="66" y="40" fill="#283618">dailyRoutine() {</text>
+
+      <text x="0" y="60" fill="#A3B18A">04</text>
+      <text x="48" y="60" fill="#283618">build();</text>
+
+      <text x="0" y="80" fill="#A3B18A">05</text>
+      <text x="48" y="80" fill="#283618">learn();</text>
+
+      <text x="0" y="100" fill="#A3B18A">06</text>
+      <text x="48" y="100" fill="#606C38" font-weight="bold">grow();</text>
+
+      <text x="0" y="118" fill="#A3B18A">07</text>
+      <text x="34" y="118" fill="#283618">} }</text>
+    </g>
+  </g>
+
+  <!-- 4. Botanical Ceramic Vessel & Olive Sprig (10% Accent #606C38 & #283618) -->
+  <g transform="translate(306, 178)">
+    <!-- Stems & Leaves -->
+    <path d="M 38 92 Q 42 42 64 -10" fill="none" stroke="#283618" stroke-width="1.8" stroke-linecap="round" />
+    <path d="M 34 92 Q 20 50 10 14" fill="none" stroke="#606C38" stroke-width="1.5" stroke-linecap="round" />
+
+    <!-- Leaves on Right Stem -->
+    <path d="M 46 55 Q 30 45 30 30 Q 46 36 46 55 Z" fill="#606C38" />
+    <path d="M 50 42 Q 68 42 74 28 Q 56 26 50 42 Z" fill="#283618" />
+    <path d="M 57 16 Q 42 6 44 -8 Q 58 0 57 16 Z" fill="#A3B18A" stroke="#283618" stroke-width="0.8" />
+    <path d="M 64 -10 Q 72 -24 80 -20 Q 74 -6 64 -10 Z" fill="#606C38" />
+
+    <!-- Leaves on Left Stem -->
+    <path d="M 24 60 Q 6 56 2 42 Q 20 44 24 60 Z" fill="#283618" />
+    <path d="M 16 34 Q 30 24 28 10 Q 14 18 16 34 Z" fill="#606C38" />
+
+    <!-- Minimalist Ceramic Vase -->
+    <path d="M 20 90 L 52 90 L 58 138 Q 58 148 48 148 L 24 148 Q 14 148 14 138 Z" fill="#F4F1E8" stroke="#283618" stroke-width="1.4" />
+    <path d="M 16 122 Q 36 114 56 122 L 58 138 Q 58 148 48 148 L 24 148 Q 14 148 14 138 Z" fill="#606C38" fill-opacity="0.85" />
+  </g>
+
+  <!-- Minimalist Tea Cup on Desk -->
+  <g transform="translate(226, 294)">
+    <!-- Steam Lines -->
+    <path d="M 16 -6 Q 12 -14 18 -20" fill="none" stroke="#606C38" stroke-width="1.2" stroke-linecap="round" class="steam-rise" />
+    <path d="M 26 -4 Q 30 -12 24 -18" fill="none" stroke="#606C38" stroke-width="1.2" stroke-linecap="round" class="steam-rise" />
+    <!-- Cup Body -->
+    <path d="M 6 0 L 36 0 L 33 26 Q 32 32 25 32 L 17 32 Q 10 32 9 26 Z" fill="#283618" />
+    <line x1="2" y1="32" x2="40" y2="32" stroke="#283618" stroke-width="2" stroke-linecap="round" />
+  </g>
+
+  <!-- Desk Horizon Line -->
+  <line x1="52" y1="326" x2="408" y2="326" stroke="#283618" stroke-width="1.4" />
+
+  <!-- 5. Bottom Editorial Caption & Color Swatch Index -->
+  <g transform="translate(40, 376)">
+    <text x="0" y="0" class="serif-note" font-size="18" font-style="italic">
+      "Simplicity is about subtracting the obvious and adding the meaningful."
+    </text>
+    <text x="0" y="24" class="mono-code" fill="#606C38">
+      FRONTEND CRAFT  ·  OBJECT-ORIENTED LOGIC  ·  CONTINUOUS GROWTH
+    </text>
+
+    <!-- 60:30:10 Palette Swatches -->
+    <g transform="translate(0, 42)">
+      <rect x="0" y="0" width="96" height="10" rx="2" fill="#F4F1E8" stroke="#283618" stroke-width="0.7" />
+      <rect x="102" y="0" width="54" height="10" rx="2" fill="#DED8C8" stroke="#283618" stroke-width="0.7" />
+      <rect x="162" y="0" width="24" height="10" rx="2" fill="#606C38" />
+      <rect x="192" y="0" width="16" height="10" rx="2" fill="#283618" />
+      <rect x="214" y="0" width="16" height="10" rx="2" fill="#A3B18A" />
+      <text x="380" y="9" class="mono-code" fill="#283618" text-anchor="end" font-size="9.5">PALETTE // CREAM &amp; OLIVE</text>
+    </g>
+  </g>
+</svg>
