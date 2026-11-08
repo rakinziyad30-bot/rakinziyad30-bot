@@ -169,98 +169,14 @@
 <!-- ========================================================================= -->
 <!-- F. GITHUB ANALYTICS                                                       -->
 <!-- ========================================================================= -->
-
-<div align="center">
-
-<p align="center">
-  <sub><code>───  04 / ACTIVITY &amp; METRICS  ───</code></sub>
-</p>
-
-<h3>GitHub Analytics</h3>
-<p><sub>Live metrics styled in Warm Cream (<code>#F4F1E8</code>), Olive Green (<code>#606C38</code>), and Dark Olive (<code>#283618</code>)</sub></p>
-
-<!-- Primary Metrics: GitHub Stats & Most Used Languages -->
-<table align="center">
-  <tr>
-    <td align="center" valign="middle">
-      <a href="https://github.com/rakinziyad30-bot">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakinziyad30-bot&theme=solarized"
-          alt="rakinziyad30-bot GitHub Statistics"
-          height="165"
-        />
-      </a>
-    </td>
-    <td align="center" valign="middle">
-      <a href="https://github.com/rakinziyad30-bot">
-        <img
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakinziyad30-bot&theme=solarized"
-          alt="rakinziyad30-bot Most Used Languages"
-          height="165"
-        />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<!-- Custom Cream & Olive Styled Cards + Streak -->
-<details>
-  <summary><sub><code>[ + ]</code> &nbsp;Expand Detailed Custom-Palette Cards, Streak &amp; Trophies</sub></summary>
-  <br />
-
-  <!-- Custom Colored Stats & Top Languages (via github-readme-stats with Cream/Olive hex parameters) -->
-  <p align="center">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rakinziyad30-bot&show_icons=true&bg_color=F4F1E8&title_color=283618&text_color=283618&icon_color=606C38&border_color=DED8C8&hide_border=false"
-      alt="GitHub Stats (Cream & Olive Theme)"
-      height="165"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakinziyad30-bot&layout=compact&bg_color=F4F1E8&title_color=283618&text_color=283618&border_color=DED8C8&hide_border=false"
-      alt="Top Languages (Cream & Olive Theme)"
-      height="165"
-    />
-  </p>
-
-  <!-- Contribution Streak -->
-  <p align="center">
-    <img
-      src="https://streak-stats.demolab.com?user=rakinziyad30-bot&background=F4F1E8&border=DED8C8&stroke=DED8C8&ring=606C38&fire=606C38&currStreakNum=283618&sideNums=283618&currStreakLabel=606C38&sideLabels=606C38&dates=A3B18A"
-      alt="GitHub Contribution Streak"
-      height="165"
-    />
-  </p>
-
-  <!-- GitHub Trophies -->
-  <p align="center">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=rakinziyad30-bot&theme=flat&no-bg=false&no-frame=false&row=1&column=6"
-      alt="GitHub Trophies"
-      width="92%"
-    />
-  </p>
-</details>
-
-<br />
-
-<!-- Contribution Graph (Cream & Olive custom palette) -->
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rakinziyad30-bot&bg_color=F4F1E8&color=283618&line=606C38&point=283618&area=true&area_color=A3B18A&hide_border=false&border_color=DED8C8&custom_title=Contribution%20Activity%20Ledger"
-    alt="GitHub Contribution Activity Graph"
-    width="96%"
-  />
-</p>
-
-</div>
 <h2 align="center">📊 GitHub Analytics</h2>
 <p align="center">
   A small overview of my development activity and coding journey.
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakinziyad30-bot&show_icons=true&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38&icon_color=A3B18A" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakinziyad30-bot&layout=compact&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakinziyad30-bot&show_icons=true&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38&icon_color=A3B18A" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakinziyad30-bot&layout=compact&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38" />
 </p>
 
 <h3 align="center">🔥 Contribution Streak</h3>
@@ -272,7 +188,6 @@
 <p align="center">
   <em>Every commit is a small step forward.</em>
 </p>
-
 ---
 
 <!-- ========================================================================= -->
