@@ -4,7 +4,7 @@
 <!-- A. HERO SECTION                                                           -->
 <!-- ========================================================================= -->
 
-<img src="./assets/banner.svg" alt="Muhammad Rakin Ziyad — Editorial Profile Banner" width="100%" />
+<img src="./assets/banner.svg" alt="Muhammad Rakin Ziyad" width="100%" />
 
 <br />
 
