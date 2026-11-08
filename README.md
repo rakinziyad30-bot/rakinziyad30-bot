@@ -111,84 +111,83 @@
 <!-- ========================================================================= -->
 <!-- E. FEATURED PROJECTS                                                      -->
 <!-- ========================================================================= -->
+<h2 align="center">🌿 Featured Projects</h2>
+<p align="center">
+  A collection of projects I've built while learning and exploring software development.
+</p>
 
-<div align="center">
-  <p align="center">
-    <sub><code>───  03 / SELECTED WORKS  ───</code></sub>
-  </p>
-  <h3>Featured Projects</h3>
-  <p><sub>Foundational exercises in state management, API integration, and object-oriented design</sub></p>
-</div>
+<br>
 
-<!--
-  NOTE FOR CUSTOMIZATION:
-  Replace the placeholder href links (e.g., https://github.com/rakinziyad30-bot/YOUR-REPO-NAME)
-  with your exact repository URLs once published on your GitHub account.
--->
-
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
-      <h4><code>01</code> &nbsp;ToDo List Application</h4>
-      <p>
-        A task management interface built with vanilla JavaScript featuring persistent client-side storage and user authentication flow.
+      <h3 align="center">01. ToDo List</h3>
+      <p align="center">
+        A personal task management application with user authentication and individual task storage.
       </p>
-      <p>
-        <sub><strong>Focus:</strong> <code>JavaScript</code> · <code>localStorage</code> · <code>Authentication</code></sub>
+      <p align="center">
+        <strong>Tech Stack</strong><br>
+        JavaScript · HTML · CSS · LocalStorage
       </p>
-      <p>
-        <!-- Placeholder Link: Update with verified repo URL -->
-        <a href="https://github.com/rakinziyad30-bot?tab=repositories"><code>[ View Repository → ]</code></a>
-        &nbsp;<sub><em>(Placeholder — link to repo)</em></sub>
+      <p align="center">
+        <a href="https://rakinziyad30-bot.github.io/ToDoList/">Live Demo</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/rakinziyad30-bot/ToDoList">Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><code>02</code> &nbsp;Expense Tracker</h4>
-      <p>
-        A personal finance utility designed to record, categorize, and calculate real-time balances across income and expense entries.
+      <h3 align="center">02. Expense Tracker</h3>
+      <p align="center">
+        A finance tracking application to manage income, expenses, balances, and transaction history.
       </p>
-      <p>
-        <sub><strong>Focus:</strong> <code>JavaScript</code> · <code>State &amp; Math Logic</code> · <code>DOM Updates</code></sub>
+      <p align="center">
+        <strong>Tech Stack</strong><br>
+        JavaScript · HTML · CSS · LocalStorage
       </p>
-      <p>
-        <!-- Placeholder Link: Update with verified repo URL -->
-        <a href="https://github.com/rakinziyad30-bot?tab=repositories"><code>[ View Repository → ]</code></a>
-        &nbsp;<sub><em>(Placeholder — link to repo)</em></sub>
+      <p align="center">
+        <a href="https://rakinziyad30-bot.github.io/ExpensesTracker/">Live Demo</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/rakinziyad30-bot/ExpensesTracker">Source Code</a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4><code>03</code> &nbsp;Crypto Tracker</h4>
-      <p>
-        A live market dashboard that fetches and displays cryptocurrency price data, market cap metrics, and 24-hour trends via external REST APIs.
+      <h3 align="center">03. Crypto Tracker</h3>
+      <p align="center">
+        A cryptocurrency tracking dashboard that retrieves and displays market information using an external API.
       </p>
-      <p>
-        <sub><strong>Focus:</strong> <code>JavaScript</code> · <code>REST API Integration</code> · <code>Async/Await</code></sub>
+      <p align="center">
+        <strong>Tech Stack</strong><br>
+        JavaScript · HTML · CSS · API Integration
       </p>
-      <p>
-        <!-- Placeholder Link: Update with verified repo URL -->
-        <a href="https://github.com/rakinziyad30-bot?tab=repositories"><code>[ View Repository → ]</code></a>
-        &nbsp;<sub><em>(Placeholder — link to repo)</em></sub>
+      <p align="center">
+        <a href="https://rakinziyad30-bot.github.io/CryptoTracker/">Live Demo</a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/rakinziyad30-bot/CryptoTracker">Source Code</a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4><code>04</code> &nbsp;Java Parking System</h4>
-      <p>
-        A structured vehicle slot and ticketing management system built to practice core object-oriented programming principles in Java.
+      <h3 align="center">04. Java Parking System</h3>
+      <p align="center">
+        A parking management program developed as an object-oriented programming project.
       </p>
-      <p>
-        <sub><strong>Focus:</strong> <code>Java</code> · <code>Object-Oriented Programming</code> · <code>Encapsulation</code></sub>
+      <p align="center">
+        <strong>Tech Stack</strong><br>
+        Java · Object-Oriented Programming
       </p>
-      <p>
-        <!-- Placeholder Link: Update with verified repo URL -->
-        <a href="https://github.com/rakinziyad30-bot?tab=repositories"><code>[ View Repository → ]</code></a>
-        &nbsp;<sub><em>(Placeholder — link to repo)</em></sub>
+      <p align="center">
+        <a href="https://github.com/rakinziyad30-bot/ProgramParkir">Source Code</a>
       </p>
     </td>
   </tr>
 </table>
 
+<br>
+
+<p align="center">
+  <em>Building, learning, and improving one project at a time.</em>
+</p>
 ---
 
 <!-- ========================================================================= -->
