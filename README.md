@@ -170,25 +170,19 @@
 <!-- F. GITHUB ANALYTICS                                                       -->
 <!-- ========================================================================= -->
 <h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
   A small overview of my development activity and coding journey.
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rakinziyad30-bot&show_icons=true&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38&icon_color=A3B18A" />
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rakinziyad30-bot&layout=compact&hide_border=true&bg_color=F4F1E8&title_color=283618&text_color=606C38" />
-</p>
-
-<h3 align="center">🔥 Contribution Streak</h3>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=rakinziyad30-bot&hide_border=true&background=F4F1E8&ring=606C38&fire=A3B18A&currStreakLabel=283618&sideLabels=606C38&currStreakNum=283618&sideNums=283618&dates=777777" />
+  <img width="49%" src="./assets/stats.svg" />
+  <img width="49%" src="./assets/top-langs.svg" />
 </p>
 
 <p align="center">
   <em>Every commit is a small step forward.</em>
-</p>
----
+</p>---
 
 <!-- ========================================================================= -->
 <!-- G. CONTRIBUTION SNAKE                                                     -->
