@@ -60,53 +60,29 @@
 <!-- D. TECH STACK                                                             -->
 <!-- ========================================================================= -->
 
-<div align="center">
-
+<h2 align="center">⚙️ Tech Stack</h2>
 <p align="center">
-  <sub><code>───  02 / TOOLS &amp; FOUNDATIONS  ───</code></sub>
+  Technologies and tools I use to build projects and improve my development skills.
 </p>
 
-<h3>Tech Stack &amp; Environment</h3>
-<p><sub>Technologies I am actively studying and building with</sub></p>
+<h3 align="center">💻 Programming & Web Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql&theme=light" />
+</p>
 
-<table align="center">
-  <thead>
-    <tr>
-      <th align="center" width="220">Frontend Foundations</th>
-      <th align="center" width="220">Backend &amp; Database</th>
-      <th align="center" width="220">Workflow &amp; Environment</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" valign="middle">
-        <br />
-        <img src="https://skillicons.dev/icons?i=html,css,js,react&perline=4" alt="HTML5, CSS3, JavaScript, React" />
-        <br /><br />
-        <sub><code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>React</code></sub>
-        <br /><br />
-      </td>
-      <td align="center" valign="middle">
-        <br />
-        <img src="https://skillicons.dev/icons?i=java,mysql&perline=2" alt="Java, MySQL" />
-        <br /><br />
-        <sub><code>Java</code> · <code>MySQL</code></sub>
-        <br /><br />
-      </td>
-      <td align="center" valign="middle">
-        <br />
-        <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Git, GitHub, VS Code" />
-        <br /><br />
-        <sub><code>Git</code> · <code>GitHub</code> · <code>VS Code</code></sub>
-        <br /><br />
-      </td>
-    </tr>
-  </tbody>
-</table>
+<h3 align="center">🛠️ Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,figma&theme=light" />
+</p>
 
-</div>
+<h3 align="center">🌱 Currently Learning</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs&theme=light" />
+</p>
 
----
+<p align="center">
+  <em>Always learning, building, and exploring new technologies.</em>
+</p>---
 
 <!-- ========================================================================= -->
 <!-- E. FEATURED PROJECTS                                                      -->
