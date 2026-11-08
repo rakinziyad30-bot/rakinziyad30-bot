@@ -24,36 +24,53 @@
 <!-- B. ABOUT ME & C. CURRENTLY WORKING ON                                     -->
 <!-- ========================================================================= -->
 
-<table>
+<h2 align="center">👋 About Me</h2>
+
+<p align="center">
+  Hi! I'm <strong>Rakin</strong>, an Information Technology student and aspiring Frontend Developer from Indonesia.
+</p>
+
+<p align="center">
+  I enjoy building practical web applications, exploring new technologies, and turning ideas into functional digital experiences.
+</p>
+
+<br>
+
+<table align="center">
   <tr>
-    <td width="62%" valign="top">
-      <h3><code>01.</code> &nbsp;About Me</h3>
-      <p>
-        Hello, I'm <strong>Muhammad Rakin Ziyad</strong> — an Information Technology student with a quiet appreciation for thoughtful interfaces, clean structure, and how software comes together under the hood.
-      </p>
-      <p>
-        Right now, my focus is grounded in the fundamentals: writing semantic markup, understanding how state and data flow through modern frontend applications, and strengthening my object-oriented programming foundation. I treat every small project as a study in craft—figuring out why things work, where they break, and how to build them more clearly the next time.
-      </p>
-      <blockquote>
-        <em>"Building, Learning, and Growing."</em>
-      </blockquote>
-      <br />
-      <h3><code>02.</code> &nbsp;Currently Working On</h3>
+    <td width="50%" valign="top">
+      <h3>💻 What I Do</h3>
       <ul>
-        <li><strong>Learning React</strong> — Component architecture, hooks, and declarative UI state.</li>
-        <li><strong>Improving JavaScript Skills</strong> — Asynchronous patterns, DOM manipulation, and ES6+ fundamentals.</li>
-        <li><strong>Building Personal Projects</strong> — Translating core concepts into functional, self-contained web apps.</li>
-        <li><strong>Practicing Java Programming</strong> — Object-oriented design, data structures, and console/system logic.</li>
+        <li>Build web applications using JavaScript, HTML, and CSS.</li>
+        <li>Develop interactive interfaces with React.</li>
+        <li>Explore programming through hands-on projects.</li>
+        <li>Practice problem-solving and software development.</li>
       </ul>
     </td>
-    <td width="38%" valign="middle" align="center">
-      <img src="./assets/illustration.svg" alt="Minimalist Editorial Botanical & Code Study" width="100%" />
-      <br />
-      <sub><em>Fig 01. — Structure, patience, and iterative craft.</em></sub>
+    <td width="50%" valign="top">
+      <h3>🌱 What I'm Exploring</h3>
+      <ul>
+        <li>React & Frontend Development</li>
+        <li>Node.js & Backend Fundamentals</li>
+        <li>Java & Object-Oriented Programming</li>
+        <li>Database Management with MySQL</li>
+      </ul>
     </td>
   </tr>
 </table>
 
+<br>
+
+<h3 align="center">🎯 My Career Goal</h3>
+
+<p align="center">
+  To grow as a Frontend Developer, contribute to meaningful products,
+  and collaborate with teams to build useful digital experiences.
+</p>
+
+<p align="center">
+  <em>Learning by building. Growing through consistency.</em>
+</p>
 ---
 
 <!-- ========================================================================= -->
