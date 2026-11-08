@@ -383,5 +383,29 @@
     width="100%"
     alt="GitHub Contribution Snake"
   />
-</p><br />
+
+<h2 align="center">GitHub Analytics</h2>
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=rakinziyad30-bot&show_icons=true&hide_border=true&bg_color=F4F1E8&title_color=606C38&icon_color=606C38&text_color=283618"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakinziyad30-bot&layout=compact&hide_border=true&bg_color=F4F1E8&title_color=606C38&text_color=283618"
+  />
+</p></p><br />
 </div>
+<h2 align="center">Coding Consistency</h2>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=rakinziyad30-bot&background=F4F1E8&ring=606C38&fire=A3B18A&currStreakLabel=283618&sideLabels=606C38&currStreakNum=283618&sideNums=283618&dates=606C38&hide_border=true"
+    width="70%"
+  />
+</p>
+
+
+
+
