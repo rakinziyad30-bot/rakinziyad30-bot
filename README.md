@@ -238,46 +238,27 @@
 <!-- H. CONNECT WITH ME                                                        -->
 <!-- ========================================================================= -->
 
-<div align="center">
+<h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <sub><code>───  06 / CORRESPONDENCE  ───</code></sub>
+  Feel free to connect with me or discuss interesting opportunities.
 </p>
 
-<h3>Connect With Me</h3>
-<p><sub>Open to learning opportunities, collaborative student projects, and frontend discussions</sub></p>
-
-<!--
-  NOTE FOR CUSTOMIZATION:
-  Replace the placeholder URLs below with your personal LinkedIn URL, email address, and portfolio site.
--->
-
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-F4F1E8?style=for-the-badge&logo=linkedin&logoColor=606C38&labelColor=DED8C8&color=F4F1E8" alt="LinkedIn (Placeholder)" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-F4F1E8?style=for-the-badge&logo=gmail&logoColor=606C38&labelColor=DED8C8&color=F4F1E8" alt="Email (Placeholder)" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://your-portfolio-url.example.com">
-    <img src="https://img.shields.io/badge/Portfolio-F4F1E8?style=for-the-badge&logo=safari&logoColor=606C38&labelColor=DED8C8&color=F4F1E8" alt="Portfolio Website (Placeholder)" />
-  </a>
-  &nbsp;&nbsp;
   <a href="https://github.com/rakinziyad30-bot">
-    <img src="https://img.shields.io/badge/GitHub-283618?style=for-the-badge&logo=github&logoColor=F4F1E8&labelColor=606C38&color=283618" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-283618?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/muhammad-rakin-ziyad-06a767233">
+    <img src="https://img.shields.io/badge/LinkedIn-606C38?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:rakinziyad30@gmail.com">
+    <img src="https://img.shields.io/badge/Email-A3B18A?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
-<sub>
-  <strong>Placeholders:</strong> Update <code>YOUR-LINKEDIN-USERNAME</code>, <code>your.email@example.com</code>, and <code>your-portfolio-url.example.com</code> in <code>README.md</code>.
-</sub>
-
-</div>
-
-<br />
-
+<p align="center">
+  <em>Open to collaboration, learning, and new opportunities.</em>
+</p>
 ---
 
 <!-- ========================================================================= -->
