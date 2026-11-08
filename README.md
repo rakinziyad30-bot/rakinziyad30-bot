@@ -372,5 +372,16 @@
   <p>
     <sub><code>Muhammad Rakin Ziyad</code> &nbsp;·&nbsp; <code>@rakinziyad30-bot</code> &nbsp;·&nbsp; <code>Building, Learning, and Growing.</code></sub>
   </p>
-  <br />
+
+  <br/>
+
+<h2 align="center">Contribution Garden 🌿</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rakinziyad30-bot/rakinziyad30-bot/output/github-contribution-grid-snake.svg"
+    width="100%"
+    alt="GitHub Contribution Snake"
+  />
+</p><br />
 </div>
