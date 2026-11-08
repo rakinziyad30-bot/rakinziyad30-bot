@@ -23,7 +23,8 @@ jobs:
           options: username=rakinziyad30-bot&show_icons=true&bg_color=F4F1E8&title_color=283618&text_color=606C38&icon_color=A3B18A&hide_border=true
           path: assets/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
+          fail_on_error: true
+          
       - name: Generate Top Languages
         uses: stats-organization/github-readme-stats-action@v2
         with:
