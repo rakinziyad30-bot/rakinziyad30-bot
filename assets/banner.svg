@@ -1,1 +1,180 @@
-Rakin Ziyad
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" width="100%" height="100%" role="img" aria-label="Muhammad Rakin Ziyad — Editorial Profile Banner">
+  <defs>
+    <!-- Subtle Warm Paper Gradient (60% Primary #F4F1E8) -->
+    <linearGradient id="bgPaper" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F4F1E8" />
+      <stop offset="70%" stop-color="#F4F1E8" />
+      <stop offset="100%" stop-color="#EDE8DA" />
+    </linearGradient>
+
+    <!-- Secondary Soft Beige Panel (#DED8C8 - 30% proportion) -->
+    <linearGradient id="beigePanel" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#DED8C8" stop-opacity="0.92" />
+      <stop offset="100%" stop-color="#D5CEBC" stop-opacity="0.96" />
+    </linearGradient>
+
+    <!-- Fine Editorial Grid Pattern -->
+    <pattern id="editorialGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#DED8C8" stroke-width="0.6" stroke-opacity="0.7" />
+    </pattern>
+
+    <!-- Soft Pulse & Drift Animations -->
+    <style>
+      .serif-title {
+        font-family: 'Cormorant Garamond', 'Playfair Display', 'Georgia', 'Times New Roman', serif;
+        fill: #283618;
+      }
+      .mono-label {
+        font-family: 'JetBrains Mono', 'SFMono-Regular', 'Consolas', 'Liberation Mono', monospace;
+        fill: #606C38;
+        letter-spacing: 2.5px;
+        font-size: 11px;
+      }
+      .sans-subtitle {
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+        fill: #283618;
+      }
+      .botanical-sway {
+        transform-origin: 960px 310px;
+        animation: gentleSway 9s ease-in-out infinite alternate;
+      }
+      .sun-breathe {
+        animation: softPulse 7s ease-in-out infinite alternate;
+      }
+      .cursor-blink {
+        animation: blink 1.4s step-end infinite;
+      }
+      @keyframes gentleSway {
+        0% { transform: rotate(-1.2deg); }
+        100% { transform: rotate(1.5deg); }
+      }
+      @keyframes softPulse {
+        0% { opacity: 0.82; transform: scale(0.99); transform-origin: 950px 185px; }
+        100% { opacity: 0.96; transform: scale(1.015); transform-origin: 950px 185px; }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0; }
+      }
+    </style>
+  </defs>
+
+  <!-- 1. Primary Canvas (60% Warm Cream #F4F1E8) -->
+  <rect x="0" y="0" width="1200" height="380" rx="14" fill="url(#bgPaper)" />
+  <rect x="0" y="0" width="1200" height="380" rx="14" fill="url(#editorialGrid)" />
+
+  <!-- 2. Secondary Architectural Editorial Block (30% Soft Beige #DED8C8) -->
+  <path d="M 760 0 L 1186 0 Q 1200 0 1200 14 L 1200 366 Q 1200 380 1186 380 L 760 380 Z" fill="url(#beigePanel)" />
+
+  <!-- Subtle Vertical Divider Line -->
+  <line x1="760" y1="24" x2="760" y2="356" stroke="#606C38" stroke-width="1" stroke-opacity="0.35" />
+
+  <!-- Outer Editorial Frame Border -->
+  <rect x="18" y="18" width="1164" height="344" rx="8" fill="none" stroke="#606C38" stroke-width="1" stroke-opacity="0.45" />
+  <rect x="24" y="24" width="1152" height="332" rx="5" fill="none" stroke="#DED8C8" stroke-width="0.8" />
+
+  <!-- Corner Registration Marks -->
+  <g stroke="#283618" stroke-width="1.2" opacity="0.6">
+    <path d="M 36 48 L 36 36 L 48 36" fill="none" />
+    <path d="M 1164 48 L 1164 36 L 1152 36" fill="none" />
+    <path d="M 36 332 L 36 344 L 48 344" fill="none" />
+    <path d="M 1164 332 L 1164 344 L 1152 344" fill="none" />
+  </g>
+
+  <!-- 3. Left Column: Editorial Typography & Personal Identity -->
+  <!-- Top Metadata Header -->
+  <text x="68" y="68" class="mono-label">ISSUE N° 01  ·  PORTFOLIO &amp; DIGITAL GARDEN  ·  @RAKINZIYAD30-BOT</text>
+  <line x1="68" y1="82" x2="690" y2="82" stroke="#DED8C8" stroke-width="1.2" />
+  <rect x="68" y="81" width="64" height="2.5" fill="#606C38" />
+
+  <!-- Main Name (Vintage-inspired Editorial Serif) -->
+  <text x="66" y="162" class="serif-title" font-size="54" font-weight="600" letter-spacing="0.5">
+    Muhammad Rakin Ziyad
+  </text>
+
+  <!-- Subtitle / Role Pills -->
+  <g transform="translate(68, 188)">
+    <!-- Olive Accent Pill (10% Accent #606C38) -->
+    <rect x="0" y="0" width="236" height="30" rx="4" fill="#606C38" />
+    <text x="118" y="19" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#F4F1E8" text-anchor="middle" letter-spacing="1">
+      ASPIRING FRONTEND DEV
+    </text>
+
+    <!-- Secondary Outlined Pill -->
+    <rect x="248" y="0" width="152" height="30" rx="4" fill="#DED8C8" stroke="#606C38" stroke-width="0.8" />
+    <text x="324" y="19" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#283618" text-anchor="middle" letter-spacing="1">
+      IT STUDENT
+    </text>
+
+    <!-- Third Outlined Pill -->
+    <rect x="412" y="0" width="184" height="30" rx="4" fill="none" stroke="#606C38" stroke-width="0.8" />
+    <text x="504" y="19" font-family="'JetBrains Mono', monospace" font-size="11.5" fill="#606C38" text-anchor="middle" letter-spacing="1">
+      JUNIOR DEVELOPER
+    </text>
+  </g>
+
+  <!-- Personal Philosophy Quote -->
+  <g transform="translate(68, 256)">
+    <line x1="0" y1="-14" x2="0" y2="28" stroke="#606C38" stroke-width="3" />
+    <text x="18" y="4" class="serif-title" font-size="22" font-style="italic" fill="#283618">
+      "Building, Learning, and Growing."
+    </text>
+    <text x="18" y="25" class="sans-subtitle" font-size="13" fill="#606C38" opacity="0.9">
+      Focused on clean web foundations, interactive interfaces, and structured software engineering.
+    </text>
+  </g>
+
+  <!-- Bottom Left Coordinates / Status Bar -->
+  <g transform="translate(68, 328)">
+    <circle cx="6" cy="-4" r="4" fill="#606C38" />
+    <text x="18" y="0" class="mono-label">STATUS: ACTIVELY LEARNING HTML · CSS · JS · REACT · JAVA · MYSQL</text>
+    <rect x="498" y="-10" width="7" height="12" fill="#606C38" class="cursor-blink" />
+  </g>
+
+  <!-- 4. Right Column: Japanese Minimalist Geometric & Botanical Art (10% Olive/Sage/Dark Olive Accents) -->
+  <g>
+    <!-- Subtle Arched Window Frame -->
+    <path d="M 855 315 L 855 150 A 105 105 0 0 1 1065 150 L 1065 315 Z" fill="#F4F1E8" stroke="#606C38" stroke-width="1.2" />
+    <path d="M 863 309 L 863 152 A 97 97 0 0 1 1057 152 L 1057 309 Z" fill="none" stroke="#DED8C8" stroke-width="0.9" />
+
+    <!-- Minimalist Rising Sun / Enso Disc -->
+    <circle cx="960" cy="175" r="56" fill="#A3B18A" opacity="0.55" class="sun-breathe" />
+    <circle cx="960" cy="175" r="38" fill="#606C38" opacity="0.88" />
+
+    <!-- Horizontal Zen Water Lines -->
+    <line x1="885" y1="248" x2="1035" y2="248" stroke="#606C38" stroke-width="1" stroke-opacity="0.5" />
+    <line x1="900" y1="260" x2="1020" y2="260" stroke="#606C38" stroke-width="1" stroke-opacity="0.35" />
+    <line x1="920" y1="272" x2="1000" y2="272" stroke="#606C38" stroke-width="1" stroke-opacity="0.25" />
+
+    <!-- Botanical Olive Branch Study (Animated Gentle Sway) -->
+    <g class="botanical-sway">
+      <!-- Main Stem -->
+      <path d="M 920 308 Q 948 235 992 128" fill="none" stroke="#283618" stroke-width="2" stroke-linecap="round" />
+
+      <!-- Olive Leaves (Left & Right pairs in #283618 and #606C38) -->
+      <path d="M 936 270 Q 910 262 904 246 Q 928 248 936 270 Z" fill="#606C38" />
+      <path d="M 942 256 Q 968 258 978 242 Q 954 238 942 256 Z" fill="#283618" />
+
+      <path d="M 952 225 Q 924 214 920 196 Q 946 200 952 225 Z" fill="#283618" />
+      <path d="M 958 210 Q 986 212 996 194 Q 970 190 958 210 Z" fill="#606C38" />
+
+      <path d="M 970 178 Q 946 164 944 146 Q 968 154 970 178 Z" fill="#606C38" />
+      <path d="M 976 164 Q 1002 164 1010 146 Q 986 146 976 164 Z" fill="#A3B18A" stroke="#283618" stroke-width="0.8" />
+
+      <!-- Terminal Leaf -->
+      <path d="M 992 128 Q 996 106 1008 98 Q 1006 120 992 128 Z" fill="#283618" />
+    </g>
+
+    <!-- Hanko-style Minimalist Stamp (Dark Olive #283618) -->
+    <g transform="translate(1082, 62)">
+      <rect x="0" y="0" width="38" height="52" rx="3" fill="none" stroke="#283618" stroke-width="1.4" />
+      <rect x="4" y="4" width="30" height="44" rx="1.5" fill="#606C38" fill-opacity="0.12" />
+      <text x="19" y="23" font-family="'Cormorant Garamond', Georgia, serif" font-size="13" font-weight="700" fill="#283618" text-anchor="middle">MRZ</text>
+      <line x1="9" y1="28" x2="29" y2="28" stroke="#606C38" stroke-width="1" />
+      <text x="19" y="41" font-family="'JetBrains Mono', monospace" font-size="8.5" fill="#606C38" text-anchor="middle">DEV</text>
+    </g>
+
+    <!-- Caption below arch -->
+    <text x="960" y="338" class="mono-label" text-anchor="middle">FIG. 00 — FORM &amp; FUNCTION</text>
+  </g>
+</svg>
