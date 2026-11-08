@@ -17,7 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate GitHub Stats
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=rakinziyad30-bot&show_icons=true&bg_color=F4F1E8&title_color=283618&text_color=606C38&icon_color=A3B18A&hide_border=true
@@ -25,7 +25,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Generate Top Languages
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: username=rakinziyad30-bot&layout=compact&bg_color=F4F1E8&title_color=283618&text_color=606C38&hide_border=true
